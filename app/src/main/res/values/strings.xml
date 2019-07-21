@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MyChatApp</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="need_an_account">Need an account?</string>
+    <string name="email">Email</string>
+    <string name="display_name">Display Name</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create account</string>
+    <string name="log_out">Log Out</string>
+    <string name="create_a_new_account">Create a New Account</string>
+    <string name="welcome_to_my_chat_app">Welcome to My Chat App</string>
+    <string name="already_an_user">Already an user?</string>
+    <string name="signin_email">Email</string>
+    <string name="signin_password">Password</string>
+    <string name="sign_in">Sign In</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="change_status">Change status</string>
+    <string name="change_image">Change image</string>
+    <string name="default_status">Hey there, I am using MyChat App</string>
+    <string name="update_status">update status</string>
+    <string name="Your_status">Your status</string>
+    <string name="user_default_status">User default status</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="total_friends">Total friends</string>
+    <string name="send_request">Send Request</string>
+    <string name="decline_request">Decline Request</string>
+</resources>
